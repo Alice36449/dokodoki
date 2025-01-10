@@ -14,7 +14,7 @@ def computer():
     return choice_computer
 
 
-#결과 판단용용
+#결과 판단용
 def game(choice_me):
     global win
     global tie
